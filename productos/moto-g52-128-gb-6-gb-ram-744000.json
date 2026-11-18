@@ -1,0 +1,15 @@
+{
+  "name": "Moto G52",
+  "category": "Motorola",
+  "price": "$744.000",
+  "image": "productos/img/moto-g52-128-gb-6-gb-ram-744000.webp",
+  "description": "128 GB · 6 GB RAM · 5.000 mAh",
+  "specs": [
+    "16 Mpx - 50 MPX",
+    "128 GB - 6 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "ANDROID 12"
+  ]
+}

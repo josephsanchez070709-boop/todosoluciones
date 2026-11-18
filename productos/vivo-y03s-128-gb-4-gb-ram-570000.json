@@ -1,0 +1,16 @@
+{
+  "name": "Vivo Y03s",
+  "category": "Vivo",
+  "price": "$570.000",
+  "image": "productos/img/vivo-y03s-128-gb-4-gb-ram-570000.webp",
+  "description": "128 GB · 4 GB RAM · 5.000 mAh",
+  "specs": [
+    "5 Mpx - 13 MPX",
+    "128 GB - 4 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "DUAL SIM",
+    "ANDROID 14"
+  ]
+}

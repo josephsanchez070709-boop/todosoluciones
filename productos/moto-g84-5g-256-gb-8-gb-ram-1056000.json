@@ -1,0 +1,15 @@
+{
+  "name": "Moto G84 5G",
+  "category": "Motorola",
+  "price": "$1.056.000",
+  "image": "productos/img/moto-g84-5g-256-gb-8-gb-ram-1056000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "16 Mpx - 50 MPX",
+    "256 GB - 8 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G - 5G",
+    "PANTALLA",
+    "ANDROID 13"
+  ]
+}

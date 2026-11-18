@@ -1,0 +1,16 @@
+{
+  "name": "Vivo Y38",
+  "category": "Vivo",
+  "price": "$920.000",
+  "image": "productos/img/vivo-y38-256-gb-8-gb-ram-920000.webp",
+  "description": "256 GB · 8 GB RAM · 6.000 mAh",
+  "specs": [
+    "8 Mpx - 50 MPX",
+    "256 GB - 8 GB RAM",
+    "6.000 mAh",
+    "3G - 4G - 5G",
+    "LATERAL",
+    "DUAL SIM",
+    "ANDROID 14"
+  ]
+}

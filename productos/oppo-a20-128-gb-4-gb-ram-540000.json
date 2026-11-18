@@ -1,0 +1,16 @@
+{
+  "name": "Oppo A20",
+  "category": "Oppo",
+  "price": "$540.000",
+  "image": "productos/img/oppo-a20-128-gb-4-gb-ram-540000.webp",
+  "description": "128 GB · 4 GB RAM · 5.100 mAh",
+  "specs": [
+    "5 Mpx - 8 MPX",
+    "128 GB - 4 GB RAM",
+    "5.100 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "DUAL SIM",
+    "ANDROID 14"
+  ]
+}

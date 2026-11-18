@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy S24",
+  "category": "Samsung",
+  "price": "$2.890.000",
+  "image": "productos/img/galaxy-s24-256-gb-8-gb-ram-2890000.webp",
+  "description": "256 GB · 8 GB RAM · 4.000 mAh",
+  "specs": [
+    "10 Mpx - 50 MPX",
+    "EXYNOS",
+    "256 GB - 8 GB RAM",
+    "DINAMIC AMOLED - 6,2 ”",
+    "2G - 3G - 4G - 5G",
+    "DUAL SIM",
+    "4.000 mAh"
+  ]
+}

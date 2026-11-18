@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy A16 5G",
+  "category": "Samsung",
+  "price": "$1.060.000",
+  "image": "productos/img/galaxy-a16-5g-256-gb-8-gb-ram-1060000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "13 Mpx - 50 MPX",
+    "EXYNOS",
+    "256 GB - 8 GB RAM",
+    "SUPER AMOLED - 6,7 ”",
+    "2G - 3G - 4G - 5G",
+    "DUAL SIM",
+    "5.000 mAh"
+  ]
+}

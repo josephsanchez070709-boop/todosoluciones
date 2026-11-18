@@ -1,0 +1,16 @@
+{
+  "name": "Vivo Y27",
+  "category": "Vivo",
+  "price": "$600.000",
+  "image": "productos/img/vivo-y27-128-gb-6-gb-ram-600000.webp",
+  "description": "128 GB · 6 GB RAM · 5.000 mAh",
+  "specs": [
+    "8 Mpx - 50 MPX",
+    "128 GB - 6 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "DUAL SIM",
+    "ANDROID 13"
+  ]
+}

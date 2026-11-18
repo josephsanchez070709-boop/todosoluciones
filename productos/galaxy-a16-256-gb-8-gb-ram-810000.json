@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy A16",
+  "category": "Samsung",
+  "price": "$810.000",
+  "image": "productos/img/galaxy-a16-256-gb-8-gb-ram-810000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "13 Mpx - 50 MPX",
+    "MEDIATEK",
+    "256 GB - 8 GB RAM",
+    "SUPER AMOLED - 6,7 ”",
+    "2G - 3G - 4G",
+    "DUAL SIM",
+    "5.000 mAh"
+  ]
+}

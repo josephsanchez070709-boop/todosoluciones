@@ -1,0 +1,16 @@
+{
+  "name": "Redmi Note 14S",
+  "category": "Xiaomi",
+  "price": "$930.000",
+  "image": "productos/img/redmi-note-14s-256-gb-8-gb-ram-930000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "16 Mpx - 200 MPX",
+    "MEDIATEK",
+    "256 GB - 8 GB RAM",
+    "AMOLED - 6,67 ”",
+    "2G - 3G - 4G",
+    "DUAL SIM",
+    "5.000 mAh"
+  ]
+}

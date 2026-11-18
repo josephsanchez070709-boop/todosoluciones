@@ -1,0 +1,15 @@
+{
+  "name": "Moto G72",
+  "category": "Motorola",
+  "price": "$860.000",
+  "image": "productos/img/moto-g72-128-gb-6-gb-ram-860000.webp",
+  "description": "128 GB · 6 GB RAM · 5.000 mAh",
+  "specs": [
+    "16 Mpx - 108 MPX",
+    "128 GB - 6 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "PANTALLA",
+    "ANDROID 12"
+  ]
+}

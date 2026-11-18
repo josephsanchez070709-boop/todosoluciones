@@ -1,0 +1,16 @@
+{
+  "name": "Redmi A5",
+  "category": "Xiaomi",
+  "price": "$380.000",
+  "image": "productos/img/redmi-a5-128-gb-4-gb-ram-380000.webp",
+  "description": "128 GB · 4 GB RAM · 5.200 mAh",
+  "specs": [
+    "8 Mpx - 32 MPX",
+    "UNISOC",
+    "128 GB - 4 GB RAM",
+    "LCD - 6,8 ”",
+    "2G - 3G - 4G",
+    "DUAL SIM",
+    "5.200 mAh"
+  ]
+}

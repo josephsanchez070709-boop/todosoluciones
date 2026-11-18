@@ -1,0 +1,16 @@
+{
+  "name": "Redmi 13",
+  "category": "Xiaomi",
+  "price": "$650.000",
+  "image": "productos/img/redmi-13-256-gb-8-gb-ram-650000.webp",
+  "description": "256 GB · 8 GB RAM · 5.030 mAh",
+  "specs": [
+    "13 Mpx - 108 MPX",
+    "MEDIATEK",
+    "256 GB - 8 GB RAM",
+    "LCD - 6,79 ”",
+    "2G - 3G - 4G",
+    "SIM + MEMORIA",
+    "5.030 mAh"
+  ]
+}

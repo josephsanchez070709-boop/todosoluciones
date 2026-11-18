@@ -1,0 +1,15 @@
+{
+  "name": "Moto G32",
+  "category": "Motorola",
+  "price": "$768.000",
+  "image": "productos/img/moto-g32-128-gb-4-gb-ram-768000.webp",
+  "description": "128 GB · 4 GB RAM · 5.000 mAh",
+  "specs": [
+    "16 Mpx - 50 MPX",
+    "128 GB - 4 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "ANDROID 12"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy S24 FE",
+  "category": "Samsung",
+  "price": "$2.790.000",
+  "image": "productos/img/galaxy-s24-fe-256-gb-8-gb-ram-2790000.webp",
+  "description": "256 GB · 8 GB RAM · 4.700 mAh",
+  "specs": [
+    "10 Mpx - 50 MPX",
+    "EXYNOS",
+    "256 GB - 8 GB RAM",
+    "DINAMIC AMOLED - 6,7 ”",
+    "2G - 3G - 4G - 5G",
+    "DUAL SIM",
+    "4.700 mAh"
+  ]
+}

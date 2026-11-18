@@ -1,0 +1,16 @@
+{
+  "name": "Huawei Nova 10 SE",
+  "category": "Huawei",
+  "price": "$888.000",
+  "image": "productos/img/huawei-nova-10-se-128-gb-8-gb-ram-888000.webp",
+  "description": "128 GB · 8 GB RAM · 4.500 mAh",
+  "specs": [
+    "16 Mpx - 108 MPX",
+    "128 GB - 8 GB RAM",
+    "4.500 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "DUAL SIM",
+    "EMUI 12"
+  ]
+}

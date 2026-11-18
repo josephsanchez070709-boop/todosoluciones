@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy A36 5G",
+  "category": "Samsung",
+  "price": "$1.325.000",
+  "image": "productos/img/galaxy-a36-5g-256-gb-8-gb-ram-1325000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "12 Mpx - 50 MPX",
+    "QUALCOMM",
+    "256 GB - 8 GB RAM",
+    "SUPER AMOLED - 6,7 ”",
+    "2G - 3G - 4G - 5G",
+    "DUAL SIM - SIM VIRTUAL",
+    "5.000 mAh"
+  ]
+}

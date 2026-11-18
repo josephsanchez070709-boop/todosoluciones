@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy A56 5G",
+  "category": "Samsung",
+  "price": "$2.000.000",
+  "image": "productos/img/galaxy-a56-5g-256-gb-8-gb-ram-2000000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "12 Mpx - 50 MPX",
+    "EXYNOS",
+    "256 GB - 8 GB RAM",
+    "SUPER AMOLED - 6,7 ”",
+    "2G - 3G - 4G - 5G",
+    "DUAL SIM - SIM VIRTUAL",
+    "5.000 mAh"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Oppo A79",
+  "category": "Oppo",
+  "price": "$890.000",
+  "image": "productos/img/oppo-a79-256-gb-8-gb-ram-890000.webp",
+  "description": "256 GB · 8 GB RAM · 5.000 mAh",
+  "specs": [
+    "8 Mpx - 50 MPX",
+    "256 GB - 8 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "LATERAL",
+    "DUAL SIM",
+    "ANDROID 13"
+  ]
+}

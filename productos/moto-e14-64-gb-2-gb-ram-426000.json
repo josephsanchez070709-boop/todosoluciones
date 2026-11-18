@@ -1,0 +1,14 @@
+{
+  "name": "Moto E14",
+  "category": "Motorola",
+  "price": "$426.000",
+  "image": "productos/img/moto-e14-64-gb-2-gb-ram-426000.webp",
+  "description": "64 GB · 2 GB RAM · 5.000 mAh",
+  "specs": [
+    "5 Mpx - 13 MPX",
+    "64 GB - 2 GB RAM",
+    "5.000 mAh",
+    "2G - 3G - 4G",
+    "ANDROID 14"
+  ]
+}
